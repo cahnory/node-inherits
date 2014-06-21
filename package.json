@@ -1,0 +1,40 @@
+{
+  "name": "node-inherits",
+  "version": "0.1.0",
+  "description": "",
+  "author": {
+    "name":   "François Germain",
+    "email":  "cahnory@gmail.com"
+  },
+
+  "main": "lib/inherits",
+  "keywords": [
+    "inherit",
+    "extend"
+  ],
+  "contributors": [
+    {
+      "name":   "François Germain",
+      "email":  "cahnory@gmail.com",
+      "url":    "http://www.cahnory.fr"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url":  "https://github.com/cahnory/node-inherits/blob/master/LICENSE.md"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url":  "https://github.com/cahnory/node-inherits.git"
+  },
+  "bugs":     "https://github.com/cahnory/node-inherits/issues",
+  "homepage": "https://github.com/cahnory/node-inherits/",
+  "docs":     "https://github.com/cahnory/node-inherits/",
+  "download": "https://github.com/cahnory/node-inherits/",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
