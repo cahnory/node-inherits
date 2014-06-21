@@ -1,7 +1,7 @@
 {
   "name": "node-inherits",
   "version": "0.1.0",
-  "description": "",
+  "description": "Inheritance module for node.js",
   "author": {
     "name":   "François Germain",
     "email":  "cahnory@gmail.com"
@@ -33,7 +33,6 @@
   "homepage": "https://github.com/cahnory/node-inherits/",
   "docs":     "https://github.com/cahnory/node-inherits/",
   "download": "https://github.com/cahnory/node-inherits/",
-  "dependencies": {},
   "engines": {
     "node": "*"
   }
